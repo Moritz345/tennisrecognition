@@ -1,2 +1,3 @@
 # tennisrecognition
-Hosting the executable file for my masters thesis
+
+This Repository is used to host the the application for my master thesis.
