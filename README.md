@@ -1,3 +1,3 @@
 # tennisrecognition
 
-This Repository is used to host the the application for my master thesis.
+This Repository is used to host the the application and other dependencies for my master thesis.
